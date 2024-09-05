@@ -40,7 +40,7 @@ The spatial encoders employed in ViDToken are pre-trained models from pytorch or
 - Run `adv_test.sh` to save all the adversarial examples tokens used for detecting.
 - Run `python detector.py` for adversarial examples detection, in this script, we integrate all the related file paths regarding clean and adversarial example tokens.
 
-The final version of the source code and scripts will be provided soon.
+The final version of the source code, binaries and scripts will be provided soon.
 
 ## Acknowledgement
 Part of our implementation is based on Daniel Neimark's [Video Transformer Network](https://github.com/bomri/SlowFast/blob/master/projects/vtn/README.md)
